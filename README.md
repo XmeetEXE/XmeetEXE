@@ -1,65 +1,85 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070B18,35:18243D,70:263A55,100:111827&text=XMEET&fontColor=F4F7FF&fontSize=68&fontAlignY=42&desc=MEET%20ZALA%20%E2%80%A2%20BUILDING%20IN%20PUBLIC&descAlignY=63&descSize=14&animation=fadeIn" width="100%" alt="XMEET dark gradient banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:080808,45:171717,100:303030&text=XMEET&fontColor=F5F5F5&fontSize=76&fontAlignY=48&desc=INDEPENDENT%20MIND.%20CONTINUOUS%20BUILD.%20&descAlignY=70&descSize=13&animation=fadeIn" width="100%" alt="XMEET monochrome banner" />
 
 <br/>
 
-<a href="https://xmeet.site"><img src="https://img.shields.io/badge/◈_PORTFOLIO-172033?style=for-the-badge&logo=vercel&logoColor=DCEBFF&labelColor=101827" alt="Portfolio" /></a>
-<a href="https://www.instagram.com/iownxmeet/"><img src="https://img.shields.io/badge/◎_INSTAGRAM-172033?style=for-the-badge&logo=instagram&logoColor=F4D9FF&labelColor=101827" alt="Instagram" /></a>
-<a href="https://www.youtube.com/@xmeetlabs"><img src="https://img.shields.io/badge/▷_YOUTUBE-172033?style=for-the-badge&logo=youtube&logoColor=FFDADA&labelColor=101827" alt="YouTube" /></a>
+<code>MEET ZALA</code> &nbsp; / &nbsp; <code>BCA STUDENT</code> &nbsp; / &nbsp; <code>CREATOR</code>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=B8C9E8&center=true&vCenter=true&width=520&lines=CYBERSECURITY+%2F+DEVELOPMENT;Curiosity+in.+Useful+tools+out.;Learning+how+systems+work.;Creative+editing+after+hours." alt="Animated intro" />
+<a href="https://xmeet.site"><img src="https://img.shields.io/badge/01_PORTFOLIO-F5F5F5?style=flat-square&labelColor=111111&color=F5F5F5" alt="Portfolio" /></a>
+<a href="https://www.instagram.com/iownxmeet/"><img src="https://img.shields.io/badge/02_INSTAGRAM-F5F5F5?style=flat-square&labelColor=111111&color=F5F5F5" alt="Instagram" /></a>
+<a href="https://www.youtube.com/@xmeetlabs"><img src="https://img.shields.io/badge/03_YOUTUBE-F5F5F5?style=flat-square&labelColor=111111&color=F5F5F5" alt="YouTube" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=14&pause=1400&color=AAAAAA&center=true&vCenter=true&width=540&lines=SECURITY+%2B+SOFTWARE;OBSERVE.+UNDERSTAND.+CREATE.;BUILDING+THINGS+THAT+I+WISH+EXISTED." alt="Animated tagline" />
 
 </div>
 
 ---
 
-## ◈ 01 — ABOUT
+<table>
+<tr>
+<td width="58%" valign="top">
 
-> **Meet Zala** — BCA student, cybersecurity learner, developer, and creative editor. Exploring how systems work and turning curiosity into practical projects.
+### / PROFILE
 
-| NOW | EXPLORING |
-|:--|:--|
-| ⌁ Cybersecurity | Web security, networking, ethical testing |
-| ⌘ Development | Python, JavaScript, Node.js |
-| ◫ Creative | Video editing, motion & typography |
-| ◈ Mindset | Learn responsibly. Test with permission. |
+I'm **Meet** — a BCA student exploring the intersection of cybersecurity and development.
 
-## ◈ 02 — SELECTED WORK
+I like understanding what's happening beneath the interface, creating useful tools, and crafting edits with a distinct visual style.
 
-| PROJECT | DESCRIPTION |
-|:--|:--|
-| **[X-PENTEST ↗](https://github.com/XMEETEXE/X-pentester)** | Toolkit for authorized web security assessment |
-| **[XCRYPT ↗](https://github.com/XMEETEXE/XCRYPT)** | Local text and file encryption utility |
-| **[x-Cloner ↗](https://github.com/XMEETEXE/x-Cloner)** | Static website snapshot tool for permitted use |
+</td>
+<td width="42%" valign="top">
 
-## ◈ 03 — TOOLKIT
+### / CURRENTLY
+
+- Studying web security
+- Learning networking
+- Building with Python & Node.js
+- Exploring motion design
+
+</td>
+</tr>
+</table>
+
+### / PROJECT INDEX
+
+| 01 | X-PENTEST | Authorized web assessment toolkit |
+|:--:|:--|:--|
+| 02 | [XCRYPT](https://github.com/XMEETEXE/XCRYPT) | Local text and file encryption utility |
+| 03 | [x-Cloner](https://github.com/XMEETEXE/x-Cloner) | Static website snapshot tool for permitted use |
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,nodejs,js,html,css,linux,git,github,vscode&theme=dark" alt="Python, Node.js, JavaScript, HTML, CSS, Linux, Git, GitHub, VS Code" />
+
+<a href="https://github.com/XMEETEXE/X-pentester"><img src="https://img.shields.io/badge/VIEW_X--PENTEST-1A1A1A?style=for-the-badge&logo=github&logoColor=white" alt="View X-PENTEST" /></a>
+<a href="https://github.com/XMEETEXE/XCRYPT"><img src="https://img.shields.io/badge/VIEW_XCRYPT-1A1A1A?style=for-the-badge&logo=github&logoColor=white" alt="View XCRYPT" /></a>
+<a href="https://github.com/XMEETEXE/x-Cloner"><img src="https://img.shields.io/badge/VIEW_X--CLONER-1A1A1A?style=for-the-badge&logo=github&logoColor=white" alt="View x-Cloner" /></a>
+
 </div>
 
-## ◈ 04 — ACTIVITY
+### / STACK
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,nodejs,js,html,css,linux,git,github,vscode&theme=dark" alt="Technology stack" />
+</div>
+
+### / SIGNAL
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=XmeetEXE&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=F2F2F2&text_color=A3A3A3&icon_color=E5E5E5&rank_icon=github" height="160" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XmeetEXE&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=F2F2F2&text_color=A3A3A3" height="160" alt="Most used languages" />
+</div>
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=XmeetEXE&show_icons=true&hide_border=true&bg_color=0B1220&title_color=DCEBFF&text_color=A9B8D0&icon_color=9DBBEB&rank_icon=github" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XmeetEXE&layout=compact&hide_border=true&bg_color=0B1220&title_color=DCEBFF&text_color=A9B8D0" height="165" alt="Most used languages" />
+<sub>ETHICAL SECURITY · OPEN LEARNING · CREATIVE WORK</sub>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=XmeetEXE&hide_border=true&background=0B1220&ring=9DBBEB&fire=C9D9F5&currStreakLabel=DCEBFF&sideLabels=A9B8D0&currStreakNum=F4F7FF&sideNums=F4F7FF&dates=7889A5" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:111827,50:1B2B43,100:111827&text=CURIOUSITY%20%E2%86%92%20RESEARCH%20%E2%86%92%20BUILD%20%E2%86%92%20IMPROVE&fontColor=DCEBFF&fontSize=14&fontAlignY=55" width="100%" alt="Curiosity to improve" />
-
-<sub>Still learning. Always building.</sub>
+**LESS NOISE. MORE BUILDING.**
 
 </div>
