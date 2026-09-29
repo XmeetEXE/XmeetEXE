@@ -1,20 +1,20 @@
+<!-- XMEET / FIELD MANUAL 01 / REV 2026 -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:10150B,45:26351B,100:10150B&text=XMEET&fontColor=D6FF78&fontSize=78&fontAlignY=45&desc=MEET%20ZALA%20%E2%80%94%20DIGITAL%20CRAFT&descAlignY=70&descSize=14&animation=fadeIn" width="100%" alt="XMEET lime industrial banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FAF6EF&height=260&text=XMEET&fontSize=112&fontColor=14120E&fontAlignY=41&desc=MEET%20ZALA%20%2F%20CYBERSECURITY%20%C3%97%20CREATIVE%20ENGINEERING&descSize=15&descAlignY=65" width="100%" alt="XMEET — Meet Zala, cybersecurity and creative engineering" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C8442A&height=7" width="100%" alt="Signal red divider" />
 
 <br/>
 
-<code>CYBERSECURITY</code> &nbsp; <code>DEVELOPMENT</code> &nbsp; <code>VISUAL EDITING</code>
+<a href="https://xmeet.site"><img src="https://img.shields.io/badge/PORTFOLIO-xmeet.site-14120E?style=for-the-badge&labelColor=C8442A&logo=vercel&logoColor=FAF6EF" alt="Portfolio: xmeet.site" /></a>
+<a href="https://www.instagram.com/iownxmeet/"><img src="https://img.shields.io/badge/INSTAGRAM-%40iownxmeet-14120E?style=for-the-badge&labelColor=14120E&logo=instagram&logoColor=FAF6EF" alt="Instagram: @iownxmeet" /></a>
+<a href="https://www.youtube.com/@xmeetlabs"><img src="https://img.shields.io/badge/YOUTUBE-%40xmeetlabs-C8442A?style=for-the-badge&labelColor=14120E&logo=youtube&logoColor=FAF6EF" alt="YouTube: @xmeetlabs" /></a>
 
 <br/><br/>
 
-<a href="https://xmeet.site"><img src="https://img.shields.io/badge/PORTFOLIO-20291A?style=for-the-badge&logoColor=D6FF78" alt="Portfolio" /></a>
-<a href="https://www.instagram.com/iownxmeet/"><img src="https://img.shields.io/badge/INSTAGRAM-20291A?style=for-the-badge&logo=instagram&logoColor=D6FF78" alt="Instagram" /></a>
-<a href="https://www.youtube.com/@xmeetlabs"><img src="https://img.shields.io/badge/YOUTUBE-20291A?style=for-the-badge&logo=youtube&logoColor=D6FF78" alt="YouTube" /></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=15&pause=1300&color=D6FF78&center=true&vCenter=true&width=520&lines=THINK+DEEP.+BUILD+USEFUL.;CURIOUS+BY+DEFAULT.;SECURITY+IS+A+MINDSET." alt="Animated tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=850&color=C8442A&center=true&vCenter=true&width=650&height=42&lines=BCA+STUDENT+%C2%B7+CYBERSECURITY+LEARNER;BUILDING+TOOLS+%26+CUTTING+CINEMATIC+EDITS;PYTHON+%C3%97+NODE.JS+%C3%97+MOTION+DESIGN" alt="Animated introduction: BCA student, cybersecurity learner, developer and editor" />
 
 </div>
 
@@ -22,69 +22,78 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-### 01 / THE OPERATOR
+### 01 / DOSSIER
 
-**Meet Zala**, BCA student and creative technologist.
+I'm **Meet Zala** — a BCA student exploring cybersecurity and software development, with creative editing as my other language.
 
-Currently learning cybersecurity and software development, with a side interest in editing, motion and visual storytelling.
+I like understanding how systems work, building practical tools, and shaping visuals through motion, rhythm, and typography. Learning by doing, especially in legal labs.
 
 </td>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-### 02 / ACTIVE FOCUS
+### 02 / IN PROGRESS
 
-- WEB — security fundamentals
-- NET — networking & protocols
-- DEV — Python / JavaScript / Node.js
-- ART — motion & typography
+- **WEB** — application security
+- **NETWORKS** — protocols & fundamentals
+- **BUILD** — Python, Node.js
+- **CREATE** — motion & visual editing
+
+<br/>
+
+<sub>STUDENT · BUILDER · EDITOR</sub>
 
 </td>
 </tr>
 </table>
 
-### 03 / BUILT & BUILDING
+### 03 / FIELD NOTES
 
-<table>
-<tr>
-<td width="12%" align="center"><strong>01</strong></td>
-<td width="30%"><strong><a href="https://github.com/XMEETEXE/X-pentester">X-PENTEST ↗</a></strong></td>
-<td>Authorized web assessment toolkit</td>
-</tr>
-<tr>
-<td align="center"><strong>02</strong></td>
-<td><strong><a href="https://github.com/XMEETEXE/XCRYPT">XCRYPT ↗</a></strong></td>
-<td>Local text and file encryption utility</td>
-</tr>
-<tr>
-<td align="center"><strong>03</strong></td>
-<td><strong><a href="https://github.com/XMEETEXE/x-Cloner">X-CLONER ↗</a></strong></td>
-<td>Static website snapshots for permitted use</td>
-</tr>
-</table>
+- **Stay curious.** Understand the system before trying to secure it.
+- **Build with purpose.** Turn learning into practical, usable tools.
+- **Respect boundaries.** Practice only in legal labs or with explicit authorization.
+- **Keep creating.** Treat editing as craft, not just a side quest.
 
-### 04 / TOOLBOX
+### 04 / SELECTED WORK
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,nodejs,js,html,css,linux,git,github,vscode&theme=dark" alt="Technology stack" />
+| REF | PROJECT | FIELD NOTES |
+|:--:|:--|:--|
+| 01 | **[X-PENTEST ↗](https://github.com/XMEETEXE/X-pentester)** | Authorized web security assessment toolkit |
+| 02 | **[XCRYPT ↗](https://github.com/XMEETEXE/XCRYPT)** | Local text and file encryption utility |
+| 03 | **[x-Cloner ↗](https://github.com/XMEETEXE/x-Cloner)** | Static website snapshot tool for permitted use |
+
+### 05 / TOOLKIT
+
+**Engineering**
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=python,nodejs,js,ts,html,css,react,express,sqlite,git,linux,vscode&theme=light&perline=6" alt="Python, Node.js, JavaScript, TypeScript, HTML, CSS, React, Express, SQLite, Git, Linux and VS Code" />
 </div>
 
-### 05 / REPOSITORY PULSE
+**Creative**
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=figma,ae,pr,ps&theme=light&perline=4" alt="Figma, After Effects, Premiere Pro and Photoshop" />
+</div>
+
+### 06 / SIGNAL
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=XmeetEXE&show_icons=true&hide_border=true&bg_color=10150B&title_color=D6FF78&text_color=C1CBAF&icon_color=D6FF78&rank_icon=github" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XmeetEXE&layout=compact&hide_border=true&bg_color=10150B&title_color=D6FF78&text_color=C1CBAF" height="165" alt="Most used languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=XmeetEXE&show_icons=true&hide_border=true&bg_color=FAF6EF&title_color=C8442A&text_color=14120E&icon_color=C8442A&border_color=E5DCCF&rank_icon=github" width="49%" alt="GitHub statistics for XmeetEXE" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XmeetEXE&layout=compact&langs_count=6&hide_border=true&bg_color=FAF6EF&title_color=C8442A&text_color=14120E&border_color=E5DCCF" width="49%" alt="Most used languages for XmeetEXE" />
+
 </div>
 
 ---
 
 <div align="center">
 
-<sub>LEARN WITH INTENT · BUILD WITH PURPOSE · TEST WITH PERMISSION</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=14120E&height=82&text=BUILT%20IN%20THE%20OPEN.%20SECURED%20BY%20INTENT.&fontSize=17&fontColor=FAF6EF&fontAlignY=55" width="100%" alt="Built in the open. Secured by intent." />
 
-<br/><br/>
+<br/>
 
-<strong><a href="https://github.com/XmeetEXE">KEEP SHIPPING →</a></strong>
+<sub>SPEC SHEET № 01 · REV 2026 · PAPER / INK / SIGNAL RED</sub>
 
 </div>
